@@ -38,7 +38,7 @@ Installation
 
 Basic command reference
 ------------------------
-1. CS_OMP( )
+1. CS_OMP
 2. CS_CoSaMP
 3. CS_FISTA
 4. CS_IHT
@@ -49,7 +49,7 @@ Basic command reference
 9. CS_RSL0
 10. CS_SBIL1
 11. CS_SL0
-12.CS_UALP
+12. CS_UALP
 
 
 References
