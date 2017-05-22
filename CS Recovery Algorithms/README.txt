@@ -2,7 +2,7 @@
        			CS Recovery Algorithms
 ========================================================================
 CS Recovery Algorithms Toolbox v0.1
-Authors: He Liu & Lin Yan (https://github.com/github)
+Authors: He Liu & Lin Yan (https://github.com/aresmiki/CS-Recovery-Algorithms.git)
 
 Introduction
 --------------
@@ -63,7 +63,7 @@ References
 [7] Chartrand and W. Yin, "Iteratively Reweighted Algorithms for Compressed Sensing," 2008.
 [8] I. Daubechies, M. Defrise, and C. D. Mol, "An iterative thresholding algorithm for linear inverse problems with a sparsity constraint," Comm. Pure Appl. Math., vol. 57, pp. 1413-1457, 2004.
 [9] J. K. Pant, W.-S. Lu, and A. Antoniou,"Reconstruction of sparse signals by minimizing a re-weighted approximate l0-norm in the null space of the measurement matrix," IEEE Inter. Midwest Symp. on Circuits-Syst, pp. 430-433, 2010.
-[10] Cand¨¨s E J, Wakin M B, Boyd S P. Enhancing sparsity by reweighted L1 minimization.[J]. Journal of Fourier Analysis & Applications, 2007, 14(5):877-905.
+[10] CandÂ¨Â¨s E J, Wakin M B, Boyd S P. Enhancing sparsity by reweighted L1 minimization.[J]. Journal of Fourier Analysis & Applications, 2007, 14(5):877-905.
 [11] H. Mohimani, M. Babie-Zadeh, and C. Jutten,"A fast approach for overcomplete sparse decomposition based on smoothed l0-norm," IEEE Trans. Signal Process., vol. 57, no. 1, pp. 289-301, Jan. 2009.
 [12] Yin W, Osher S, Goldfarb D, et al.Bregman Iterative Algorithms for L1 Minimization with Applications to Compressed Sensing[J]. Siam Journal on Imaging Sciences, 2008, 1(1):143-168.
 [13] H. Mohimani, M. Babie-Zadeh, and C. Jutten,"A fast approach for overcomplete sparse decomposition based on smoothed l0-norm," IEEE Trans. Signal Process., vol. 57, no. 1, pp. 289-301, Jan. 2009.
