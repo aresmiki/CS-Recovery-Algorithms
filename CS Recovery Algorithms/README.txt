@@ -55,7 +55,7 @@ Basic command reference
 References
 -------------
 [1] Joel A. Tropp and Anna C. Gilbert Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit,IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. 53, NO. 12.
-[2] Needell D,Tropp J A CoSaMP£ºIterative signal recovery from incomplete and inaccurate samples[J].Applied and Computation Harmonic Analysis,2009,26:301-321.
+[2] Needell D,Tropp J A CoSaMP:Iterative signal recovery from incomplete and inaccurate samples[J].Applied and Computation Harmonic Analysis,2009,26:301-321.
 [3] D.Needell, J.A. Tropp.CoSaMP:Iterative signal recoveryfrom incomplete and inaccurate samples[J].Communications of theACM,2010,53(12):93-100.
 [4] A. Beck and M. Teboulle, "A fast iterative shrinkage-thresholding algorithm for linear inverse problems," SIAM J. Imaging Sciences, vol. 2, no. 1, pp. 183-202, 2009.
 [5] Blumensath T, Davies M E. Iterative hard thresholding for compressed sensing[J]. Applied & Computational Harmonic Analysis, 2009, 27(3):265-274.
