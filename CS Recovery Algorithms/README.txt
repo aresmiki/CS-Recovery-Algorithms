@@ -1,9 +1,9 @@
 ========================================================================
        			CS Recovery Algorithms
 ========================================================================
-code£º
+code:
 Contains 12 algorithm code.
-demo£º
+demo:
 Algorithm sample code.
-doc£º
+doc:
 Algorithm documentation.
