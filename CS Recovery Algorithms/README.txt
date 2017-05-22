@@ -54,17 +54,17 @@ Basic command reference
 
 References
 -------------
-[1] Joel A. Tropp and Anna C. Gilbert Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit£¬IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. 53, NO. 12.
-[2] Needell D£¬Tropp J A CoSaMP£ºIterative signal recovery from incomplete and inaccurate samples[J]£®Applied and Computation Harmonic Analysis£¬2009£¬26£º301-321.
-[3] D.Needell, J.A. Tropp£®CoSaMP: Iterative signal recoveryfrom incomplete and inaccurate samples[J]. Communications of theACM£¬2010£¬53(12)£º93-100.
-[4] A. Beck and M. Teboulle, ¡°A fast iterative shrinkage-thresholding algorithm for linear inverse problems,¡± SIAM J. Imaging Sciences, vol. 2, no. 1, pp. 183-202, 2009.
+[1] Joel A. Tropp and Anna C. Gilbert Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit,IEEE TRANSACTIONS ON INFORMATION THEORY, VOL. 53, NO. 12.
+[2] Needell D,Tropp J A CoSaMP£ºIterative signal recovery from incomplete and inaccurate samples[J].Applied and Computation Harmonic Analysis,2009,26:301-321.
+[3] D.Needell, J.A. Tropp.CoSaMP:Iterative signal recoveryfrom incomplete and inaccurate samples[J].Communications of theACM,2010,53(12):93-100.
+[4] A. Beck and M. Teboulle, "A fast iterative shrinkage-thresholding algorithm for linear inverse problems," SIAM J. Imaging Sciences, vol. 2, no. 1, pp. 183-202, 2009.
 [5] Blumensath T, Davies M E. Iterative hard thresholding for compressed sensing[J]. Applied & Computational Harmonic Analysis, 2009, 27(3):265-274.
 [6] Blumensath T, Davies M E. Iterative Thresholding for Sparse Approximations[J]. Journal of Fourier Analysis and Applications, 2008, 14(5):629-654.
-[7] Chartrand and W. Yin, ¡°Iteratively Reweighted Algorithms for Compressed Sensing,¡± 2008.
-[8] I. Daubechies, M. Defrise, and C. D. Mol, ¡°An iterative thresholding algorithm for linear inverse problems with a sparsity constraint,¡± Comm. Pure Appl. Math., vol. 57, pp. 1413-1457, 2004.
-[9] J. K. Pant, W.-S. Lu, and A. Antoniou,¡°Reconstruction of sparse signals by minimizing a re-weighted approximate l0-norm in the null space of the measurement matrix,¡± IEEE Inter. Midwest Symp. on Circuits-Syst, pp. 430¨C433, 2010.
+[7] Chartrand and W. Yin, "Iteratively Reweighted Algorithms for Compressed Sensing," 2008.
+[8] I. Daubechies, M. Defrise, and C. D. Mol, "An iterative thresholding algorithm for linear inverse problems with a sparsity constraint," Comm. Pure Appl. Math., vol. 57, pp. 1413-1457, 2004.
+[9] J. K. Pant, W.-S. Lu, and A. Antoniou,"Reconstruction of sparse signals by minimizing a re-weighted approximate l0-norm in the null space of the measurement matrix," IEEE Inter. Midwest Symp. on Circuits-Syst, pp. 430-433, 2010.
 [10] Cand¨¨s E J, Wakin M B, Boyd S P. Enhancing sparsity by reweighted L1 minimization.[J]. Journal of Fourier Analysis & Applications, 2007, 14(5):877-905.
-[11] H. Mohimani, M. Babie-Zadeh, and C. Jutten,¡°A fast approach for overcomplete sparse decomposition based on smoothed l0-norm,¡± IEEE Trans. Signal Process., vol. 57, no. 1, pp. 289-301, Jan. 2009.
+[11] H. Mohimani, M. Babie-Zadeh, and C. Jutten,"A fast approach for overcomplete sparse decomposition based on smoothed l0-norm," IEEE Trans. Signal Process., vol. 57, no. 1, pp. 289-301, Jan. 2009.
 [12] Yin W, Osher S, Goldfarb D, et al.Bregman Iterative Algorithms for L1 Minimization with Applications to Compressed Sensing[J]. Siam Journal on Imaging Sciences, 2008, 1(1):143-168.
-[13] H. Mohimani, M. Babie-Zadeh, and C. Jutten,¡°A fast approach for overcomplete sparse decomposition based on smoothed l0-norm,¡± IEEE Trans. Signal Process., vol. 57, no. 1, pp. 289-301, Jan. 2009.
+[13] H. Mohimani, M. Babie-Zadeh, and C. Jutten,"A fast approach for overcomplete sparse decomposition based on smoothed l0-norm," IEEE Trans. Signal Process., vol. 57, no. 1, pp. 289-301, Jan. 2009.
 [14] Pant J K, Lu W S, Antoniou A.Unconstrained regularized Lp -norm based algorithm for the reconstruction of sparse signals[C] IEEE International Symposium on Circuits and Systems. IEEE, 2011:1740-1743.
